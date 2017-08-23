@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.swing.JList'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
